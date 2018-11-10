@@ -88,7 +88,12 @@ import_dados_ufcg <- function() {
     motivo <- import_code_motivo()
     
     cursos <- read.csv(here("data/nome-cursos-emec.csv"), stringsAsFactors = FALSE) %>%
-        select(co_curso = CO_CURSO, nome_curso = NOME_CURSO)
+        select(co_curso = CO_CURSO, nome_curso = NOME_CURSO) %>%
+        mutate(nome_curso = if_else(co_curso == 13444, "Engenharia de Minas", 
+                                    if_else(co_curso == 13445, "Engenharia de Materiais", 
+                                            if_else(co_curso == 118562, "Engenharia de Petróleo", 
+                                                    if_else(co_curso == 1106561, "Engenharia de Biotecnologia e Bioprocessos", 
+                                                            if_else(co_curso == 1106562, "Engenharia de Biossistemas", nome_curso))))))
     
     dados_ufcg <- raw %>%
         select(CO_UF_CURSO, CO_IES, CO_CURSO, QE_I02, QE_I08, QE_I15, QE_I17, QE_I25) %>% 
