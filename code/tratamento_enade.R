@@ -97,14 +97,14 @@ import_dados_ufcg <- function() {
         mutate(nome_curso = iconv(nome_curso, from="UTF-8", to="latin2//TRANSLIT"))
     
     dados_ufcg <- raw %>%
-        select(CO_UF_CURSO, CO_IES, CO_CURSO, QE_I02, QE_I08, QE_I15, QE_I17, QE_I25) %>% 
+        select(CO_UF_CURSO, CO_IES, CO_CURSO, QE_I02, QE_I08, QE_I15, QE_I17, QE_I25, TP_SEXO) %>% 
         
         left_join(cor_raca, by = c("QE_I02" = "codigo")) %>% 
         left_join(renda, by = c("QE_I08" = "codigo")) %>% 
         left_join(cotas, by = c("QE_I15" = "codigo")) %>% 
         left_join(ensino_medio, by = c("QE_I17" = "codigo")) %>% 
         left_join(motivo, by = c("QE_I25" = "codigo")) %>% 
-        select(UF = CO_UF_CURSO, cod_Inst = CO_IES, cod_Curso = CO_CURSO, cor_raca, renda_num, renda_valor, renda, cota, ensino_medio, motivo) %>% 
+        select(UF = CO_UF_CURSO, cod_Inst = CO_IES, cod_Curso = CO_CURSO, cor_raca, renda_num, renda_valor, renda, cota, ensino_medio, motivo, sexo = TP_SEXO) %>% 
         
         left_join(cursos, by = c("cod_Curso" = "co_curso")) %>% 
         na.omit()
