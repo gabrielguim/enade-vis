@@ -86,14 +86,15 @@ import_dados_ufcg <- function() {
     cotas <- import_code_cotas()
     ensino_medio <- import_code_ensino_medio()
     motivo <- import_code_motivo()
-    
+
     cursos <- read.csv(here("data/nome-cursos-emec.csv"), stringsAsFactors = FALSE) %>%
         select(co_curso = CO_CURSO, nome_curso = NOME_CURSO) %>%
         mutate(nome_curso = if_else(co_curso == 13444, "Engenharia de Minas", 
                                     if_else(co_curso == 13445, "Engenharia de Materiais", 
                                             if_else(co_curso == 118562, "Engenharia de Petróleo", 
                                                     if_else(co_curso == 1106561, "Engenharia de Biotecnologia e Bioprocessos", 
-                                                            if_else(co_curso == 1106562, "Engenharia de Biossistemas", nome_curso))))))
+                                                            if_else(co_curso == 1106562, "Engenharia de Biossistemas", nome_curso)))))) %>%
+        mutate(nome_curso = iconv(nome_curso, from="UTF-8", to="latin2//TRANSLIT"))
     
     dados_ufcg <- raw %>%
         select(CO_UF_CURSO, CO_IES, CO_CURSO, QE_I02, QE_I08, QE_I15, QE_I17, QE_I25) %>% 
@@ -107,7 +108,7 @@ import_dados_ufcg <- function() {
         
         left_join(cursos, by = c("cod_Curso" = "co_curso")) %>% 
         na.omit()
-    
+
     return(dados_ufcg)
 }
 
@@ -126,7 +127,7 @@ write_data <- function(){
     library(jsonlite)
     
     import_dados_ufcg_computacao() %>% write.csv(here("data/dados_ufcg_computacao.csv"), row.names = FALSE)
-    import_dados_ufcg() %>% write.csv(here("data/dados_ufcg.csv"), row.names = FALSE)
+    import_dados_ufcg() %>% write.csv(here("data/dados_ufcg.csv"), row.names = FALSE, fileEncoding = 'utf8')
     import_nome_cursos() %>% jsonlite::toJSON() %>% write(here("data/cursos.json"))
 }
 
