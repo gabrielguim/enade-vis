@@ -203,24 +203,24 @@ UF,cod_Inst,cod_Curso,cor_raca,renda_num,renda_valor,renda,cota,ensino_medio,mot
 25,2564,13410,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,PEDAGOGIA (LICENCIATURA)
 25,2564,13410,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,PEDAGOGIA (LICENCIATURA)
 25,2564,13410,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Baixa concorrência,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,PEDAGOGIA (LICENCIATURA)
-25,2564,13436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Indígena,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Médio,Ensino Superior - Graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Médio,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola particular,Outro,Ensino Médio,Ensino Médio,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Médio,Ensino Superior - Graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola particular,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Nenhuma,Pós-graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,13436,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIENCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Indígena,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Médio,Ensino Superior - Graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Médio,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola particular,Outro,Ensino Médio,Ensino Médio,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Médio,Ensino Superior - Graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola particular,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Nenhuma,Pós-graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,13436,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
 25,2564,13438,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Influência familiar,Ensino Médio,Ensino Superior - Graduação,M,ENGENHARIA ELÉTRICA
 25,2564,13438,Preta,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Outro,Pós-graduação,Pós-graduação,M,ENGENHARIA ELÉTRICA
 25,2564,13438,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Nenhuma,Nenhuma,F,ENGENHARIA ELÉTRICA
@@ -651,73 +651,73 @@ UF,cod_Inst,cod_Curso,cor_raca,renda_num,renda_valor,renda,cota,ensino_medio,mot
 25,2564,13445,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE MATERIAIS
 25,2564,13445,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE MATERIAIS
 25,2564,13445,Preta,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,M,ENGENHARIA DE MATERIAIS
-25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Não quero declarar,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Pós-graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Pós-graduação,Pós-graduação,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola pública,Valorização Profissional,Ensino Superior - Graduação,Pós-graduação,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Pós-graduação,Pós-graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Influência familiar,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Outro,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Baixa concorrência,Ensino Superior - Graduação,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Superior - Graduação,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Influência familiar,Pós-graduação,Ensino Superior - Graduação,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Preta,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Médio,Pós-graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Pós-graduação,Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Não quero declarar,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Influência familiar,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
-25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIA DA COMPUTAÇAO (BACHARELADO)
+25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Não quero declarar,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Pós-graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Pós-graduação,Pós-graduação,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola pública,Valorização Profissional,Ensino Superior - Graduação,Pós-graduação,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Pós-graduação,Pós-graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Influência familiar,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Outro,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Baixa concorrência,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Superior - Graduação,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Influência familiar,Pós-graduação,Ensino Superior - Graduação,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Médio,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Preta,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Médio,Pós-graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Pós-graduação,Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Não quero declarar,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Influência familiar,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
+25,2564,13446,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)
 25,2564,13448,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,MATEMÁTICA (LICENCIATURA)
 25,2564,13448,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,MATEMÁTICA (LICENCIATURA)
 25,2564,13448,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola particular,Vocação,Ensino Médio,Ensino Médio,M,MATEMÁTICA (LICENCIATURA)
@@ -861,148 +861,148 @@ UF,cod_Inst,cod_Curso,cor_raca,renda_num,renda_valor,renda,cota,ensino_medio,mot
 25,2564,13456,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Vocação,Ensino Médio,Nenhuma,M,ENGENHARIA FLORESTAL
 25,2564,13456,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,ENGENHARIA FLORESTAL
 25,2564,13456,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA FLORESTAL
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Influência familiar,Pós-graduação,Pós-graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Valorização Profissional,Ensino Superior - Graduação,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Valorização Profissional,Ensino Médio,Pós-graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Maior parte escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Pós-graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Preta,7,"mais de R$ 28.110,00",Altíssima,Não,Todo escola particular,Valorização Profissional,Pós-graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,7,"mais de R$ 28.110,00",Altíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Preta,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Outro,Pós-graduação,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Valorização Profissional,Nenhuma,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Influência familiar,Ensino Superior - Graduação,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Valorização Profissional,Ensino Médio,Pós-graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Valorização Profissional,Nenhuma,Nenhuma,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Amarela,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Outro,Pós-graduação,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Inserção no Mercado de Trabalho,Nenhuma,Nenhuma,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Amarela,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Pós-graduação,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Vocação,Nenhuma,Pós-graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Médio,Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Amarela,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Amarela,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Valorização Profissional,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Influência familiar,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Indígena,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Étnico-racial,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Influência familiar,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Valorização Profissional,Ensino Superior - Graduação,Nenhuma,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Valorização Profissional,Nenhuma,Nenhuma,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Nenhuma,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Preta,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Nenhuma,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Influência familiar,Pós-graduação,Pós-graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Valorização Profissional,Ensino Superior - Graduação,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Valorização Profissional,Ensino Médio,Pós-graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Maior parte escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Pós-graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Preta,7,"mais de R$ 28.110,00",Altíssima,Não,Todo escola particular,Valorização Profissional,Pós-graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,7,"mais de R$ 28.110,00",Altíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Preta,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Outro,Pós-graduação,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Valorização Profissional,Nenhuma,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Influência familiar,Ensino Superior - Graduação,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Valorização Profissional,Ensino Médio,Pós-graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Valorização Profissional,Nenhuma,Nenhuma,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Amarela,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Outro,Pós-graduação,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Inserção no Mercado de Trabalho,Nenhuma,Nenhuma,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Amarela,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,79570,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Pós-graduação,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Superior - Graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Vocação,Nenhuma,Pós-graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Médio,Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Amarela,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Amarela,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Valorização Profissional,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Influência familiar,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99802,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Indígena,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Étnico-racial,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Influência familiar,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Valorização Profissional,Ensino Superior - Graduação,Nenhuma,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Superior - Graduação,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Valorização Profissional,Nenhuma,Nenhuma,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Nenhuma,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Preta,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Nenhuma,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,99804,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
 25,2564,99806,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,MATEMÁTICA (LICENCIATURA)
 25,2564,99806,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,MATEMÁTICA (LICENCIATURA)
 25,2564,99806,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,MATEMÁTICA (LICENCIATURA)
@@ -1251,13 +1251,13 @@ UF,cod_Inst,cod_Curso,cor_raca,renda_num,renda_valor,renda,cota,ensino_medio,mot
 25,2564,121367,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,FILOSOFIA (LICENCIATURA)
 25,2564,121367,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,FILOSOFIA (LICENCIATURA)
 25,2564,121367,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,FILOSOFIA (LICENCIATURA)
-25,2564,313436,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS SOCIAIS (BACHARELADO)
-25,2564,313436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (BACHARELADO)
-25,2564,313436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Vocação,Ensino Superior - Graduação,Ensino Médio,M,CIENCIAS SOCIAIS (BACHARELADO)
-25,2564,313436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,CIENCIAS SOCIAIS (BACHARELADO)
-25,2564,313436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (BACHARELADO)
-25,2564,313436,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Maior parte escola particular,Vocação,Pós-graduação,Ensino Superior - Graduação,M,CIENCIAS SOCIAIS (BACHARELADO)
-25,2564,313436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIENCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola pública,Vocação,Ensino Superior - Graduação,Ensino Médio,M,CIÊNCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,CIÊNCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Maior parte escola particular,Vocação,Pós-graduação,Ensino Superior - Graduação,M,CIÊNCIAS SOCIAIS (BACHARELADO)
+25,2564,313436,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,CIÊNCIAS SOCIAIS (BACHARELADO)
 25,2564,313448,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,MATEMÁTICA (BACHARELADO)
 25,2564,313448,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,M,MATEMÁTICA (BACHARELADO)
 25,2564,313448,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,M,MATEMÁTICA (BACHARELADO)
@@ -1312,80 +1312,80 @@ UF,cod_Inst,cod_Curso,cor_raca,renda_num,renda_valor,renda,cota,ensino_medio,mot
 25,2564,1106562,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE BIOSSISTEMAS
 25,2564,1106562,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE BIOSSISTEMAS
 25,2564,1106562,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE BIOSSISTEMAS
-25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Maior parte escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Étnico-racial,Maior parte escola particular,Inserção no Mercado de Trabalho,Nenhuma,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola particular,Valorização Profissional,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola particular,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Outra cota,Maior parte escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola particular,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola pública,Vocação,Pós-graduação,Pós-graduação,M,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇAO
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Influência familiar,Ensino Superior - Graduação,Nenhuma,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Valorização Profissional,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Étnico-racial,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Nenhuma,Nenhuma,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS SOCIAIS (LICENCIATURA)
-25,2564,1106595,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Maior parte escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Étnico-racial,Maior parte escola particular,Inserção no Mercado de Trabalho,Nenhuma,Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola particular,Valorização Profissional,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Maior parte escola particular,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Outra cota,Maior parte escola particular,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola particular,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola pública,Vocação,Pós-graduação,Pós-graduação,M,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106578,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,ENGENHARIA DE PRODUÇÃO
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Influência familiar,Ensino Superior - Graduação,Nenhuma,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Valorização Profissional,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Étnico-racial,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Nenhuma,Nenhuma,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Superior - Graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Preta,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS SOCIAIS (LICENCIATURA)
+25,2564,1106595,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS SOCIAIS (LICENCIATURA)
 25,2564,1129147,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Valorização Profissional,Ensino Médio,Pós-graduação,M,ARQUITETURA E URBANISMO
 25,2564,1129147,Branca,6,"R$ 9.370,01 a R$ 28.110,00",Alta,Não,Todo escola particular,Vocação,Pós-graduação,Ensino Superior - Graduação,F,ARQUITETURA E URBANISMO
 25,2564,1129147,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,M,ARQUITETURA E URBANISMO
@@ -1486,140 +1486,140 @@ UF,cod_Inst,cod_Curso,cor_raca,renda_num,renda_valor,renda,cota,ensino_medio,mot
 25,2564,1152881,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Pós-graduação,F,QUÍMICA (LICENCIATURA)
 25,2564,1152881,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,QUÍMICA (LICENCIATURA)
 25,2564,1152881,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Influência familiar,Ensino Médio,Ensino Médio,M,QUÍMICA (LICENCIATURA)
-25,2564,1152882,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Nenhuma,Nenhuma,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Amarela,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Superior - Graduação,Ensino Médio,F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIENCIAS BIOLÓGICAS (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Médio,M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Influência familiar,Ensino Médio,Pós-graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola particular,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Influência familiar,Ensino Médio,Pós-graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158116,Amarela,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Pós-graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1158907,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,F,LETRAS - INGLES
-25,2564,1158907,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - INGLES
-25,2564,1158907,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Médio,Ensino Médio,M,LETRAS - INGLES
-25,2564,1158907,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,LETRAS - INGLES
-25,2564,1158907,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLES
-25,2564,1158907,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLES
-25,2564,1158907,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLES
-25,2564,1158907,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,LETRAS - INGLES
-25,2564,1158907,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Influência familiar,Ensino Superior - Graduação,Pós-graduação,F,LETRAS - INGLES
-25,2564,1158907,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLES
-25,2564,1158907,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,F,LETRAS - INGLES
-25,2564,1158907,Indígena,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - INGLES
-25,2564,1158907,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,F,LETRAS - INGLES
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Amarela,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Nenhuma,Ensino Médio,M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Nenhuma,Pós-graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Pós-graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Nenhuma,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Nenhuma,Nenhuma,M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Amarela,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Nenhuma,Nenhuma,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Superior - Graduação,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS-PORTUGUES (LICENCIATURA)
-25,2564,1162185,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Médio,Ensino Médio,F,LETRAS - INGLES
-25,2564,1162185,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - INGLES
-25,2564,1162185,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Outro,Ensino Médio,Pós-graduação,F,LETRAS - INGLES
-25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,LETRAS - INGLES
-25,2564,1162185,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLES
-25,2564,1162185,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLES
-25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - INGLES
-25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLES
-25,2564,1162185,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - INGLES
-25,2564,1162185,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLES
-25,2564,1162185,Preta,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - INGLES
-25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,LETRAS - INGLES
-25,2564,1162185,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,LETRAS - INGLES
-25,2564,1162185,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLES
+25,2564,1152882,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Nenhuma,Nenhuma,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Amarela,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Preta,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Outro,Ensino Superior - Graduação,Ensino Médio,F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1152882,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,CIÊNCIAS BIOLÓGICAS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Baixa concorrência,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Médio,M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Influência familiar,Ensino Médio,Pós-graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Escola pública,Todo escola pública,Vocação,Ensino Médio,Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,5,"R$ 5. 622,01 a R$ 9.370,00",Média-alta,Não,Todo escola particular,Vocação,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Maior parte escola particular,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Influência familiar,Ensino Médio,Pós-graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158116,Amarela,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Superior - Graduação,Pós-graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1158907,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1158907,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - INGLÊS
+25,2564,1158907,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Médio,Ensino Médio,M,LETRAS - INGLÊS
+25,2564,1158907,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Ensino Superior - Graduação,F,LETRAS - INGLÊS
+25,2564,1158907,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLÊS
+25,2564,1158907,Amarela,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Baixa concorrência,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1158907,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1158907,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola pública,Vocação,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,M,LETRAS - INGLÊS
+25,2564,1158907,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Influência familiar,Ensino Superior - Graduação,Pós-graduação,F,LETRAS - INGLÊS
+25,2564,1158907,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Maior parte escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1158907,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola particular,Outro,Ensino Superior - Graduação,Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1158907,Indígena,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - INGLÊS
+25,2564,1158907,Branca,4,"R$ 4.216,51 a R$ 5.622,00",Média,Não,Todo escola particular,Vocação,Ensino Superior - Graduação,Pós-graduação,F,LETRAS - INGLÊS
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Amarela,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Nenhuma,Ensino Médio,M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Nenhuma,Pós-graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Escola pública,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Outro,Ensino Médio,Ensino Superior - Graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Nenhuma,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Nenhuma,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Pós-graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Preta,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Outro,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Nenhuma,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Outra cota,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Influência familiar,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola pública,Outro,Nenhuma,Nenhuma,M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Amarela,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Valorização Profissional,Nenhuma,Nenhuma,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Vocação,Nenhuma,Ensino Superior - Graduação,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Não quero declarar,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1160083,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - PORTUGUÊS (LICENCIATURA)
+25,2564,1162185,Preta,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Médio,Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1162185,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Superior - Graduação,F,LETRAS - INGLÊS
+25,2564,1162185,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Renda,Todo escola pública,Outro,Ensino Médio,Pós-graduação,F,LETRAS - INGLÊS
+25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,M,LETRAS - INGLÊS
+25,2564,1162185,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1162185,Branca,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLÊS
+25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Outro,Ensino Médio,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - INGLÊS
+25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Mais de uma cota,Todo escola pública,Vocação,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLÊS
+25,2564,1162185,Branca,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Não,Todo escola pública,Vocação,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),M,LETRAS - INGLÊS
+25,2564,1162185,Não quero declarar,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLÊS
+25,2564,1162185,Preta,1,"até R$ 1.405,50",Baixíssima,Renda,Todo escola pública,Inserção no Mercado de Trabalho,Nenhuma,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),M,LETRAS - INGLÊS
+25,2564,1162185,Parda,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Médio,Ensino Médio,F,LETRAS - INGLÊS
+25,2564,1162185,Preta,3,"R$ 2.811,01 a R$ 4.216,50",Média-baixa,Não,Todo escola particular,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Pós-graduação,F,LETRAS - INGLÊS
+25,2564,1162185,Parda,2,"R$ 1.405,51 a R$ 2.811,00",Baixa,Étnico-racial,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),Ensino Fundamental: 1º ao 5º ano (1ª a 4ª série),F,LETRAS - INGLÊS
 25,2564,1204358,Parda,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Outro,Nenhuma,Ensino Médio,M,FÍSICA (LICENCIATURA)
 25,2564,1204358,Preta,1,"até R$ 1.405,50",Baixíssima,Escola pública,Todo escola pública,Baixa concorrência,Ensino Médio,Ensino Médio,F,FÍSICA (LICENCIATURA)
 25,2564,1204358,Branca,1,"até R$ 1.405,50",Baixíssima,Não,Todo escola pública,Inserção no Mercado de Trabalho,Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),Ensino Fundamental: 6º ao 9º ano (5ª a 8ª série),F,FÍSICA (LICENCIATURA)
